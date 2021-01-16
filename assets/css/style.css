@@ -1627,3 +1627,17 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/* innerpage css */
+.event{
+  margin: 50px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.event > div > img{
+  padding: 30px;
+}
+
+.event-description{
+  margin: auto;
+}
