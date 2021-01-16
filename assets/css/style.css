@@ -1636,6 +1636,12 @@ section {
 
 .event > div > img{
   padding: 30px;
+  display: block;
+  margin:auto;
+}
+
+.poster{
+  align-content: center;
 }
 
 .event-description{
