@@ -1038,14 +1038,14 @@ section {
   color: #ffb03b;
 }
 
-.events .event-item .price {
+.events .event-item .event_date {
   font-size: 26px;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
   margin-bottom: 15px;
 }
 
-.events .event-item .price span {
+.events .event-item .event_date span {
   border-bottom: 2px solid #ffb03b;
 }
 
