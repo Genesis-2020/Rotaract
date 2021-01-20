@@ -1647,3 +1647,8 @@ section {
 .event-description{
   margin: auto;
 }
+
+#author{
+  position: relative;
+  left: 480px;
+}
