@@ -1240,6 +1240,17 @@ section {
   overflow: hidden;
 }
 
+#pic{
+  margin-top: 55px;
+}
+#desc{
+  width: 410px;
+  height: 135px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  margin-left: 46px;
+}
+
 .chefs .member .member-info {
   position: absolute;
   bottom: -80px;
