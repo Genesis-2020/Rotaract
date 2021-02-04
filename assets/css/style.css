@@ -994,7 +994,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/discussion.jpeg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -1208,7 +1208,7 @@ section {
 # Chefs
 --------------------------------------------------------------*/
 .chefs {
-  background: url("../img/chefs-bg.jpg") center center no-repeat;
+  background: url("../img/abhyaas.jpeg") center center no-repeat;
   background-size: cover;
   padding: 60px 0;
   position: relative;
@@ -1326,7 +1326,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/alumni_800x800-790x310.webp") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
