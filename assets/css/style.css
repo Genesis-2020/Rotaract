@@ -125,6 +125,11 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
+.gitamlogo{
+  height: 60px;
+  width: 200px;
+}
+
 @media (max-width: 992px) {
   #header {
     top: 0;
@@ -1242,7 +1247,7 @@ section {
   overflow: hidden;
 }
 
-#pic{
+/* #pic{
   margin-top: 55px;
 }
 #desc{
@@ -1251,7 +1256,7 @@ section {
   padding-bottom: 25px;
   padding-top: 25px;
   margin-left: 46px;
-}
+} */
 
 .chefs .member .member-info {
   position: absolute;
@@ -1571,6 +1576,10 @@ section {
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #ffa012;
+}
+
+.info{
+  margin: auto;
 }
 
 @-webkit-keyframes animate-loading {
