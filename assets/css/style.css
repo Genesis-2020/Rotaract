@@ -1422,6 +1422,14 @@ section {
   background-color: #ffb03b !important;
 }
 
+.testimonial-item{
+  display: flex;
+}
+
+.alumni{
+  margin: auto;
+}
+
 @media (min-width: 1024px) {
   .testimonials {
     background-attachment: fixed;
