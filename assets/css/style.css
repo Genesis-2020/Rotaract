@@ -1435,6 +1435,15 @@ section {
   margin: auto;
 }
 
+.alumni-head{
+  color: black;
+  text-align: center;
+}
+
+.alumni-head>span{
+  color: #ffb03b;
+}
+
 @media (min-width: 1024px) {
   .testimonials {
     background-attachment: fixed;
